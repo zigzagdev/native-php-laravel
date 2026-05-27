@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository is archived in favor of [nativephp/desktop](/nativephp/desktop)
+
 # Laravel wrapper for the NativePHP framework.
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/nativephp/laravel.svg?style=flat-square)](https://packagist.org/packages/nativephp/laravel)
